@@ -1,0 +1,64 @@
+# Kodi Media Center language file
+# Addon Name: Wykodi
+# Addon id: plugin.video.wykodi
+# Addon Provider: Tom3kP
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-21 11:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+
+# Kodion Settings
+
+msgctxt "#30000"
+msgid "Wykop Auth"
+msgstr ""
+
+msgctxt "#30001"
+msgid "API Key"
+msgstr ""
+
+msgctxt "#30002"
+msgid "API Secret"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Link Share"
+msgstr 
+
+msgctxt "#30004"
+msgid "Shared links per page"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Tracking"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Play - Tracked"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Sharing"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Share email #1"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Share email #2"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Share email #3"
+msgstr ""

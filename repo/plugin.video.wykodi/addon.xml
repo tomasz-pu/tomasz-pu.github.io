@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.wykodi" version="0.0.11" name="Wykodi" provider-name="Tom3kP">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <reuselanguageinvoker>true</reuselanguageinvoker>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Play videos from Wykop.pl</summary>
+    <description lang="en_GB">Play videos from Wykop.pl</description>
+    <disclaimer lang="en_GB">Play videos from Wykop.pl</disclaimer>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart> 
+    </assets>
+    <news>DEV version</news>
+  </extension>
+</addon>

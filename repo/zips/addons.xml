@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="plugin.video.wykodi" version="0.0.11" name="Wykodi" provider-name="Tom3kP">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+    <import addon="script.module.requests" version="2.22.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <reuselanguageinvoker>true</reuselanguageinvoker>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Play videos from Wykop.pl</summary>
+    <description lang="en_GB">Play videos from Wykop.pl</description>
+    <disclaimer lang="en_GB">Play videos from Wykop.pl</disclaimer>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart> 
+    </assets>
+    <news>DEV version</news>
+  </extension>
+</addon><addon id="tom3kp-repo" name="tomasz-pu" version="0.0.1" provider-name="tomasz-pu">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/tomasz-pu/tomasz-pu.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/tomasz-pu/tomasz-pu.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/tomasz-pu/tomasz-pu.github.io/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>tomasz-pu.github.io</summary>
+        <description>A test repo to update bespoke addons</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon></addons>
