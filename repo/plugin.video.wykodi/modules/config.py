@@ -233,51 +233,56 @@ _MENU = {
                 'mode': 'wykop02',
                 'subcategories': {
                     10: {
+                        'name': '2024',
+                        'descr': 'Rok 2024',
+                        'params': {'year': 2024}
+                    },
+                    20: {
                         'name': '2023',
                         'descr': 'Rok 2023',
                         'params': {'year': 2023}
                     },
-                    20: {
+                    30: {
                         'name': '2022',
                         'descr': 'Rok 2022',
                         'params': {'year': 2022}
                     },
-                    30: {
+                    40: {
                         'name': '2021',
                         'descr': 'Rok 2021',
                         'params': {'year': 2021}
                     },
-                    40: {
+                    50: {
                         'name': '2020',
                         'descr': 'Rok 2020',
                         'params': {'year': 2020}
                     },
-                    50: {
+                    60: {
                         'name': '2019',
                         'descr': 'Rok 2019',
                         'params': {'year': 2019}
                     },
-                    60: {
+                    70: {
                         'name': '2018',
                         'descr': 'Rok 2018',
                         'params': {'year': 2018}
                     },
-                    70: {
+                    80: {
                         'name': '2017',
                         'descr': 'Rok 2017',
                         'params': {'year': 2017}
                     },
-                    80: {
+                    90: {
                         'name': '2016',
                         'descr': 'Rok 2016',
                         'params': {'year': 2016}
                     },
-                    90: {
+                    100: {
                         'name': '2015',
                         'descr': 'Rok 2015',
                         'params': {'year': 2015}
                     },
-                    100: {
+                    110: {
                         'name': '2014',
                         'descr': 'Rok 2014',
                         'params': {'year': 2014}

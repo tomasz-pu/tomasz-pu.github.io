@@ -1,10 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-# [0.0.11] - 2024-04-16
+# [0.0.12] - 2024-04-16
 ### Changes
 * added dynamic email sharing for 3 emails(#10)
 * added 2024 to the years top(#11)
+* added 2024 to the years top - mirko(#11)
 
 # [0.0.9] - 2024-01-28
 ### Changes
