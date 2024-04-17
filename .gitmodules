@@ -1,0 +1,3 @@
+[submodule "repo/plugin.video.wykodi"]
+	path = repo/plugin.video.wykodi
+	url = https://github.com/tomasz-pu/Wykodi.git
