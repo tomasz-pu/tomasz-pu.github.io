@@ -18,7 +18,7 @@
     </assets>
     <news>DEV version</news>
   </extension>
-</addon><addon id="tom3kp-repo" name="tomasz-pu" version="0.0.5" provider-name="tomasz-pu">
+</addon><addon id="tom3kp-repo" name="tomasz-pu" version="0.0.6" provider-name="tomasz-pu">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/tomasz-pu/tomasz-pu.github.io/master/repo/zips/addons.xml</info>
