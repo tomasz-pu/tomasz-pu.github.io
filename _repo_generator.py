@@ -242,6 +242,15 @@ class Generator:
                 )
             )
 
+            # custom
+            if addon_id == "tom3kp-repo":
+                # update the index to point to the correct file
+                with open("index.html", "w") as f:
+                    f.write(f'<!DOCTYPE html>\n<a href="/repo/zips/{addon_id}/{addon_id}-{version}.zip">{addon_id}-{version}.zip</a>')
+                
+                print("Index file updated", color_text("index.html", 'yellow'))
+            # /custom
+
     def _copy_meta_files(self, addon_id, addon_folder):
         """
         Copy the addon.xml and relevant art files into the relevant folders in the repository.
