@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.video.wykodi" version="0.0.18" name="Wykodi" provider-name="Tom3kP">
+<addons><addon id="plugin.video.wykodi" version="0.0.20" name="Wykodi" provider-name="Tom3kP">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" version="2.22.0" />
@@ -18,7 +18,7 @@
     </assets>
     <news>DEV version</news>
   </extension>
-</addon><addon id="tom3kp-repo" name="tomasz-pu" version="0.0.19" provider-name="tomasz-pu">
+</addon><addon id="tom3kp-repo" name="tomasz-pu" version="0.0.20" provider-name="tomasz-pu">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/tomasz-pu/tomasz-pu.github.io/master/repo/zips/addons.xml</info>
